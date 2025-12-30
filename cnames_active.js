@@ -38,9 +38,11 @@
  */
 
 var cnames_active = {
-  "Tyoe_Doamin_Name": "t50.site.github.io",
-  "Shop": "shopno1.netlify.app"
-  
+  "mozahidul": "mozahidul.github.io",
+  "Shop": "shopnol.netlify.app",
+  "Type_Domain_Name": "t50.site.github.io"
+}
+
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
